@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/HOC/Hoc ky 6/ProgrammingMobileApps/BTCK_Android/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/NONAME/AndroidStudioProjects/BTCK_Android1/app/src/main/res/layout/activity_charts.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/NONAME/AndroidStudioProjects/BTCK_Android1/app/src/main/res/layout/activity_game_over.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/NONAME/AndroidStudioProjects/BTCK_Android1/app/src/main/res/layout/activity_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/NONAME/AndroidStudioProjects/BTCK_Android1/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/NONAME/AndroidStudioProjects/BTCK_Android1/app/src/main/res/layout/activity_splash.xml" value="0.1" />
       </map>
     </option>
   </component>
