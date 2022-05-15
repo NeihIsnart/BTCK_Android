@@ -29,7 +29,7 @@ public class HomeActivity extends AppCompatActivity {
         btnBangXepHang.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(HomeActivity.this, Charts.class);
+                Intent intent = new Intent(HomeActivity.this, ChartsActivity.class);
                 startActivity(intent);
             }
         });

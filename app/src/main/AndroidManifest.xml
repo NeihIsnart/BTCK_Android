@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BTCK_Android">
         <activity
-            android:name=".Charts"
+            android:name=".ChartsActivity"
             android:exported="false" />
         <activity
             android:name=".HomeActivity"
