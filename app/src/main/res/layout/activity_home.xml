@@ -25,11 +25,11 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_below="@+id/testview1"
-        android:textSize="20sp"
         android:gravity="center"
         android:hint="Nhập tên người chơi"
         android:inputType="text"
-        android:textColorHint="#000000" />
+        android:textColorHint="#000000"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/btn_batdau"
